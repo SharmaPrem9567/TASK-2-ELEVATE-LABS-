@@ -1,0 +1,16 @@
+From: apple-support@official-apple-assistance.com
+To: victim@example.com
+Subject: [URGENT] Apple ID Suspended – Verify Immediately
+
+Dear Customer,
+
+We have detected unauthorized login attempts on your Apple ID from an unrecognized device.
+
+For your security, your Apple ID has been temporarily suspended. To restore full access, please verify your identity by clicking the link below:
+
+👉 https://official-apple-assistance.com/isignesph.php
+
+Failure to verify within 24 hours will result in permanent suspension of your account.
+
+Sincerely,  
+Apple Support Team
